@@ -1,0 +1,42 @@
+.button {
+	background-color: rgb(65, 171, 65);
+	border: none;
+	color: #fff;
+	font-size: 1.2rem;
+	padding: 1.2rem 2.4rem;
+	border-radius: 1.2rem;
+	cursor: pointer;
+	margin-right: 1.2rem;
+}
+.form {
+	width: 40rem;
+	display: flex;
+	gap: 0.6rem;
+	flex-direction: column;
+}
+.form label {
+	font-size: 1.2rem;
+}
+.form input {
+	padding: 0.6rem 0.8rem;
+	font-family: inherit;
+}
+.buttons {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 2.4rem;
+}
+.buttons button {
+	border: none;
+	font-size: 1.2rem;
+	padding: 1.2rem 2.4rem;
+	border-radius: 1.2rem;
+	cursor: pointer;
+	color: #fff;
+}
+.buttons button:first-child {
+	background-color: rgb(65, 171, 65);
+}
+.buttons button:last-child {
+	background-color: #9d2828;
+}
