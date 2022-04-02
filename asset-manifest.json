@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HendrickGH/crud-rick-and-morty/static/css/main.b0815bd6.css",
+    "main.js": "/HendrickGH/crud-rick-and-morty/static/js/main.c015ad8a.js",
+    "index.html": "/HendrickGH/crud-rick-and-morty/index.html",
+    "main.b0815bd6.css.map": "/HendrickGH/crud-rick-and-morty/static/css/main.b0815bd6.css.map",
+    "main.c015ad8a.js.map": "/HendrickGH/crud-rick-and-morty/static/js/main.c015ad8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0815bd6.css",
+    "static/js/main.c015ad8a.js"
+  ]
+}
